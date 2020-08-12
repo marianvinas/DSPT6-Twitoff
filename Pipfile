@@ -10,6 +10,8 @@ flask = "*"
 flask-sqlalchemy = "*"
 basilica = "*"
 tweepy = "*"
+python-dotenv = "*"
+twitter-scraper = "*"
 
 [requires]
 python_version = "3.7"
